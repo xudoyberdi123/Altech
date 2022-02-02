@@ -39,5 +39,5 @@ def create_pub(log, price, type=None):
     else:
         s = s + f"\nUmumiy narx: {price}$ bo'ldi"
 
-    s = s + "\n\n<a href='https://t.me/altechshop'>Tg</a> | <a href='http://altech.uz/'>Web</a> | <a href='https://www.instagram.com/altech.uz/'>Ins</a>"
+    s = s + "\n\n<a href='https://t.me/altechuzz'>TELEGRAM</a> | <a href='https://vm.tiktok.com/ZSJw3A8ht/'>TIK TOK</a> | <a href='https://www.instagram.com/altech.uz/'>INSTAGRAM</a> | <a href='https://www.facebook.com/profile.php?id=100074295934415'>FACEBOOK</a> | <a href='https://www.youtube.com/channel/UCYWWBWGG-pjtJI4MbEyxTLA'>YOUTUBE</a> "
     return s
