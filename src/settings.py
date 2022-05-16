@@ -118,7 +118,7 @@ USE_L10N = True
 
 USE_TZ = True
 
-TOKEN_KEY = '1511848339:AAFejM4Us3bcdyNMNadrC-kHtk_1WzdoLxI'
+TOKEN_KEY = '1690809911:AAE_mPqtW00J-WcKFvnwr4lTX3YsfBK_p7I'
 
 
 # Static files (CSS, JavaScript, Images)
