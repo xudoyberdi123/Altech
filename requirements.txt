@@ -1,5 +1,7 @@
 aiofiles==0.8.0
+APScheduler==3.6.3
 asgiref==3.5.1
+cachetools==4.2.2
 certifi==2021.10.8
 charset-normalizer==2.0.12
 Django==4.0.4
@@ -7,10 +9,15 @@ greenlet==1.1.2
 idna==3.3
 protobuf==3.20.1
 python-dotenv==0.20.0
+python-telegram-bot==13.11
 pytz==2022.1
+pytz-deprecation-shim==0.1.0.post0
+requests==2.27.1
 six==1.16.0
 sniffio==1.2.0
 sqlparse==0.4.2
+tornado==6.1
 typing_extensions==4.2.0
 tzdata==2022.1
+tzlocal==4.2
 urllib3==1.26.9
